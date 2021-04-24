@@ -1,6 +1,6 @@
 site_name: EthHub
 site_description: Essential source for Ethereum information.
-site_url: https://docs.ethhub.io
+site_url: https://boardroom-inc.github.io/stateless
 theme:
   name: 'material'
   custom_dir: 'docs/material'
@@ -15,8 +15,8 @@ extra_css: [extra.css]
 markdown_extensions:
   - meta
 
-repo_name: 'ethhub-io/ethhub'
-repo_url: 'https://github.com/ethhub-io/ethhub'
+repo_name: 'boardroom-inc/stateless'
+repo_url: 'https://github.com/boardroom-inc/stateless.git'
 
 extra:
   social:

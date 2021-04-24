@@ -1,6 +1,6 @@
 site_name: EthHub
 site_description: Essential source for Ethereum information.
-site_url: https://boardroom-inc.github.io/stateless
+site_url: https://learn.boardroom.info
 theme:
   name: 'material'
   custom_dir: 'docs/material'

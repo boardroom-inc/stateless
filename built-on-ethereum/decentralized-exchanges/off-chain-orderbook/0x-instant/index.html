@@ -36,7 +36,7 @@
         <meta name="lang:search.tokenizer" content="[\s\-]+">
       
       <link rel="shortcut icon" href="../../../../assets/images/favicon.ico">
-      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.3.0">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-3.3.0">
     
     
       
@@ -4749,14 +4749,13 @@
 <h2 id="affliate-fees">Affliate Fees</h2>
 <p>As an end host of 0x Instant, you can charge users a fee on all trades made through Instant with the <code>affiliateFee</code> option. Simply specify an ethereum address and feePercentage (up to 5%), and a percentage of each transaction will be deposited into the specified address (denominated in ETH).</p>
 <p>Example: 3% of transaction volume (in ETH) will de deposited into 0x50ff5828a216170cf224389f1c5b0301a5d0a230</p>
-<pre><code class="markup">&lt;head&gt;
+<pre><code class="language-markup">&lt;head&gt;
     ...
     &lt;script src=&quot;https://instant.0xproject.com/instant.js&quot;&gt;&lt;/script&gt;
     ...
 &lt;/head&gt;
 </code></pre>
-
-<pre><code class="javascript">zeroExInstant.render(
+<pre><code class="language-javascript">zeroExInstant.render(
     {
         orderSource: 'https://api.relayer.com/sra/v2/',
         affiliateInfo: {
@@ -4767,7 +4766,6 @@
     'body',
 );
 </code></pre>
-
 <h2 id="important-links">Important Links</h2>
 <ul>
 <li><a href="https://0x.org/instant">Website</a></li>
@@ -4857,7 +4855,7 @@
     
       <script src="../../../../assets/javascripts/application.3a8f445d.js"></script>
       
-      <script>app.initialize({version:"1.0.4",url:{base:"../../../.."}})</script>
+      <script>app.initialize({version:"1.1.2",url:{base:"../../../.."}})</script>
       
     
   </body>

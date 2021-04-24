@@ -36,7 +36,7 @@
         <meta name="lang:search.tokenizer" content="[\s\-]+">
       
       <link rel="shortcut icon" href="../../../assets/images/favicon.ico">
-      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.3.0">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-3.3.0">
     
     
       
@@ -4918,7 +4918,7 @@
 <p>You will probably encounter issues with gas. Note that contracts cannot be bigger than 24,000 bytes, and transactions no bigger than 32kb (<a href="https://ethereum.stackexchange.com/questions/47539/how-big-could-be-contract-size">source</a>).</p>
 <p>Contract creations take gas, which you can estimate with <code>estimateGas</code>. Gas is the internal Ethereum unit for pricing computation, and is converted at a fixed rate to Ether (set by clients), termed the <strong>gasPrice</strong>. It is measured in the smallest unit, which is gwei. The <strong>gasLimit</strong> is the maximum amount of gas that can be used in one setting.</p>
 <p>An example of some gas arithmetic:</p>
-<pre><code class="text">estimateGas(YourContract)
+<pre><code class="language-text">estimateGas(YourContract)
 =&gt; 286056
 
 # if we run a test blockchain with a gas price of 2 (2 units for 1 gwei)
@@ -4928,7 +4928,6 @@ then the minimum amount to send with the transaction is:
 286056 * 2 = 572,112 gwei
 0.000572112 ETH
 </code></pre>
-
 <p>You might be tempted to set <code>gasLimit</code> to something like <code>1000000000000000</code>. This will break Metamask, as it can't encode that value into 53 bits for BigNumber (<a href="https://github.com/ethereumjs/ethereumjs-vm/issues/114">see here</a>).</p>
 <h4 id="gas-units">Gas Units</h4>
 <table>
@@ -4994,21 +4993,19 @@ then the minimum amount to send with the transaction is:
 <p>Integration testing generally requires multiple interactions from various users/contracts. Since this requires the use of multiple addresses, it is unsuitable to accomplish in Solidity as above.</p>
 <h3 id="exposing-contracts">Exposing contracts</h3>
 <p>You may encounter difficulty testing contracts due to the (in)visibility of methods/types, the lack of insertion point for validating data being returned, and so on. It is possible to test not the contract itself, but a wrapped contract for testing purposes only.</p>
-<pre><code class="text">contract Market {
+<pre><code class="language-text">contract Market {
   uint[] private orders;
   function doSomething() {}
 }
 </code></pre>
-
 <p>How would we access <code>Market.orders</code> here?</p>
-<pre><code class="text">contract MarketForTesting is Market {
+<pre><code class="language-text">contract MarketForTesting is Market {
   function getOrdersCount() public returns (uint8) { return orders.length; }
 }
 </code></pre>
-
 <h3 id="testing-return-values">Testing return values</h3>
 <p>When you call a method on a contract, and it updates state (i.e. is not <code>view</code>/<code>pure</code>), it must be transacted upon the network. In such case, the Web3 interfaces do not give you the return value of the method. This can be frustrating if you're trying to test such a value, so you can do something like so:</p>
-<pre><code class="javascript">async function txWithReturnValue(method, ...args) {
+<pre><code class="language-javascript">async function txWithReturnValue(method, ...args) {
   let [retval, tx] = await Promise.all([
     method.call(...args),
     method.sendTransaction(...args)
@@ -5018,11 +5015,10 @@ then the minimum amount to send with the transaction is:
 
 await txWithReturnValue(Contract.method, 1, &quot;0x123&quot;, { from: &quot;0x12312&quot;, value: 2 });
 </code></pre>
-
 <h3 id="testing-with-various-users">Testing with various 'users'</h3>
 <p>You will want to test the contract's interaction from the POV of multiple users with different addresses (whether it be human or other contracts). This is quite easy to achieve.</p>
 <p>Whenever you transact with a contract in calling a method, you have the option to specify the <code>from</code> address of who will be funding the tx. Below is a Truffle test which combines this with access to <code>accounts</code>, which is the same output as web3.personal.getListAccounts:</p>
-<pre><code class="javascript">const MyContract = artifacts.require(&quot;./MyContract.sol&quot;);
+<pre><code class="language-javascript">const MyContract = artifacts.require(&quot;./MyContract.sol&quot;);
 
 contract('MyContract', async (accounts) =&gt; {
   it('tests with various users', async () =&gt; {
@@ -5119,7 +5115,7 @@ contract('MyContract', async (accounts) =&gt; {
     
       <script src="../../../assets/javascripts/application.3a8f445d.js"></script>
       
-      <script>app.initialize({version:"1.0.4",url:{base:"../../.."}})</script>
+      <script>app.initialize({version:"1.1.2",url:{base:"../../.."}})</script>
       
     
   </body>

@@ -16,7 +16,7 @@ markdown_extensions:
   - meta
 
 repo_name: 'boardroom-inc/stateless'
-repo_url: 'https://github.com/boardroom-inc/stateless.git'
+repo_url: 'https://github.com/boardroom-inc/stateless'
 
 extra:
   social:

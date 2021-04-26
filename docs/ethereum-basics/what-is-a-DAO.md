@@ -1,10 +1,10 @@
 ---
-title: What is Ether (ETH)? - EthHub
+title: What is a DAO? - Stateless
 
 description: Ether (ETH) is the native cryptocurrency used on the Ethereum network.
 ---
 
-# What is Ether?
+# What is a DAO?
 
 ## Summary
 

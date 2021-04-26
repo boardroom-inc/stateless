@@ -1,5 +1,5 @@
-site_name: EthHub
-site_description: Essential source for Ethereum information.
+site_name: Stateless
+site_description: A trusted resource for all things DAOs, powered by Boardroom.
 site_url: https://learn.boardroom.info
 theme:
   name: 'material'

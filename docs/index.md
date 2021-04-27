@@ -6,15 +6,14 @@ description: A community driven resource covering digital and distributed organi
 
 # Welcome to Stateless
 
-A community driven resource covering digital and distributed organizations and their governance, powered by [Boardroom](https://boardroom.info). Stateless covers the growing 'DO' and 'DAO' ecosystem 
+A community driven resource covering digital and distributed organizations and their governance, powered by [Boardroom](https://boardroom.info). Stateless covers the growing 'DO' and 'DAO' ecosystem through four main channels:
 
-1. [Data Dashboard](https://podcast.stateless.io)
-2. [Stateless Newsletter](https://governance.substack.com)
-3. [Stateless Publication](https://stateless.substack.com)
+1. [Stateless Docs](https://learn.boardroom.info/DAO-basics/what-is-a-DAO/)
+2. [Data Dashboard](https://podcast.stateless.io)
+3. [Stateless Newsletter](https://governance.substack.com)
+4. [Stateless Publication](https://stateless.substack.com)
 
-The Docs section, where you are now, is the core of stateless. This documentation is open source and hosted on GitHub which means that anyone has the ability to contribute. The goal is to make sure the information is available, clear, concise, and up to date.
-
-If you're new to Ethereum, [start at this guide](https://docs.stateless.io/using-ethereum/ethereum-new-user-guide/).
+The Docs section, where you are now, is open source and hosted on GitHub which means that anyone has the ability to contribute. The goal is to make sure the information is available, clear, concise, and up to date.
 
 ## How to make changes to Stateless pages
 1. Head on over to the [Github repo](https://github.com/boardroom-inc/stateless).
@@ -31,7 +30,5 @@ There are also some basic guidelines that need to be followed when contributing 
 * No marketing or sponsored posts
 * No promotion of ICOs/token sales
 * No inappropriate content
-
-Donations: [0xa19fcdad77c1f0fd184689aca88babcf68010347](https://etherscan.io/address/0xa19fcdad77c1f0fd184689aca88babcf68010347)
 
 **DISCLAIMER: Nothing contained in this Github repository should be considered financial or investment advice - it is for informational purposes only.**

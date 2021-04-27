@@ -41,16 +41,16 @@ nav:
 - Dashboard: 'https://boardroom.info/learn'
 - Newsletter: 'https://governance.substack.com'
 - Publication: 'https://stateless.mirror.xyz'
-- DAO Basics:
-  - 'What is Ethereum?': 'DAO-basics/what-is-ethereum.md'
+- Basics:
   - 'What is a DAO?': 'DAO-basics/what-is-a-DAO.md'
+  - 'What is Ethereum?': 'DAO-basics/what-is-ethereum.md'
   - 'Governance': 'DAO-basics/governance.md'
   - 'Resources': 'DAO-basics/resources.md'
-- DAO Tooling:
+- Tooling:
   - 'How to start a DAO': 'DAO-tooling/how-to-buy-ether.md'
   - Frameworks:
     - 'Snapshot': 'DAO-tooling/frameworks/snapshot.md'
-- DAO Ecosystem:
+- Ecosystem:
   - 'DAO Ecosystem': 'DAO-ecosystem/DAO-ecosystem.md'
   - Frameworks:
     - 'Governance Frameworks': 'DAO-ecosystem/protocols/what-is-open-finance.md'

@@ -1,5 +1,5 @@
 ---
-title: Key DAO Resources - Stateless
+title: Key Resources - Stateless
 
 description: A list of essential DAO resources and links.
 ---

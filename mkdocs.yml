@@ -38,9 +38,9 @@ google_analytics:
 
 nav:
 - Home: 'index.md'
-- Screener: 'https://boardroom.info/learn'
-- Dashboard: 'https://app.boardroom.info'
-- Documentation: 'https://docs.boardroom.info'
+- Dashboard: 'https://boardroom.info/learn'
+- Newsletter: 'https://governance.substack.com'
+- Publication: 'https://stateless.mirror.xyz'
 - DAO Basics:
   - 'What is Ethereum?': 'DAO-basics/what-is-ethereum.md'
   - 'What is a DAO?': 'DAO-basics/what-is-a-DAO.md'
@@ -49,7 +49,7 @@ nav:
 - DAO Tooling:
   - 'How to start a DAO': 'DAO-tooling/how-to-buy-ether.md'
   - Frameworks:
-    - 'Geth': 'DAO-tooling/frameworks/snapshot.md'
+    - 'Snapshot': 'DAO-tooling/frameworks/snapshot.md'
 - DAO Ecosystem:
   - 'DAO Ecosystem': 'DAO-ecosystem/DAO-ecosystem.md'
   - Frameworks:

@@ -4,19 +4,19 @@
      <lastmod>2021-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://learn.boardroom.info/ethereum-basics/what-is-ethereum/</loc>
+     <loc>https://learn.boardroom.info/DAO-basics/what-is-a-DAO/</loc>
      <lastmod>2021-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://learn.boardroom.info/ethereum-basics/what-is-a-DAO/</loc>
+     <loc>https://learn.boardroom.info/DAO-basics/what-is-ethereum/</loc>
      <lastmod>2021-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://learn.boardroom.info/ethereum-basics/governance/</loc>
+     <loc>https://learn.boardroom.info/DAO-basics/governance/</loc>
      <lastmod>2021-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://learn.boardroom.info/ethereum-basics/resources/</loc>
+     <loc>https://learn.boardroom.info/DAO-basics/resources/</loc>
      <lastmod>2021-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
@@ -24,7 +24,7 @@
      <lastmod>2021-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://learn.boardroom.info/DAO-tooling/frameworks/geth/</loc>
+     <loc>https://learn.boardroom.info/DAO-tooling/frameworks/snapshot/</loc>
      <lastmod>2021-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
@@ -36,191 +36,11 @@
      <lastmod>2021-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://learn.boardroom.info/guides/ethereum-high-yield-savings-account/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/guides/a-straightforward-guide-erc20-tokens/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/guides/deciphering-a-transaction-on-etherscan/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/guides/graphical-guide-for-understanding-uniswap/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/guides/graphical-guide-to-compound/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/guides/guide-to-ens/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
      <loc>https://learn.boardroom.info/questions-about-ethereum/is-ethereum-more-expensive-to-use-as-price-rises/</loc>
      <lastmod>2021-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://learn.boardroom.info/questions-about-ethereum/why-do-you-have-to-pay-to-use-ethereum/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/questions-about-ethereum/is-ether-a-security/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/questions-about-ethereum/is-ethereum-over-1tb-in-size/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/questions-about-ethereum/is-ethereum-immutable/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/questions-about-ethereum/is-ether-needed-for-transaction-fees/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/questions-about-ethereum/if-ethereum-is-open-source-why-cant-it-be-copied/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/questions-about-ethereum/what-is-the-difficulty-bomb/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/other/ethereum-branding-kit/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/other/ethereum-2.0-ama/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/other/ethereum-blog-archive/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/other/EF-COI-disclosures/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/other/grants-process/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/other/internationalization/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/other/funds/0xeap/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/other/funds/aragon-nest/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/other/funds/consensys-labs/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/other/funds/ecf/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/other/funds/eth-prize/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/other/funds/geco/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/other/funds/gitcoin/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/other/funds/stable-fund/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/other/funds/status-incubate/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
      <loc>https://learn.boardroom.info/glossary/crypto-acronyms/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/glossary/ens-domains/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/glossary/sideways-dictionary/what-is-the-sideways-dictionary/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/glossary/sideways-dictionary/2FA/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/glossary/sideways-dictionary/blockchain/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/glossary/sideways-dictionary/cold-storage/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/glossary/sideways-dictionary/cryptojacking/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/glossary/sideways-dictionary/ddos/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/glossary/sideways-dictionary/difficulty/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/glossary/sideways-dictionary/double-spend/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/glossary/sideways-dictionary/forks/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/glossary/sideways-dictionary/multi-sig/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/glossary/sideways-dictionary/smart-contract/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/glossary/sideways-dictionary/state-rent/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/glossary/sideways-dictionary/stateless-clients/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/glossary/sideways-dictionary/uncle-blocks/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/glossary/sideways-dictionary/wei/</loc>
-     <lastmod>2021-04-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://learn.boardroom.info/languages/translations/</loc>
      <lastmod>2021-04-27</lastmod>
      <changefreq>daily</changefreq>
     </url>

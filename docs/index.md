@@ -1,23 +1,24 @@
 ---
-title: Welcome to EthHub - EthHub
+title: Stateless
 
-description: Learn about Ethereum through open-source documentation, podcast and newsletter.
+description: A community driven resource covering digital and distributed organizations and their governance, powered by Boardroom
 ---
 
-# Welcome to EthHub
+# Welcome to Stateless
 
-The goal of EthHub is to provide a single source for essential Ethereum information. We attempt to accomplish this goal through three main areas:
+A community driven resource covering digital and distributed organizations and their governance, powered by Boardroom
 
-1. [EthHub Docs](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/)
-2. [Into the Ether Podcast](https://podcast.ethhub.io)
-3. [EthHub Weekly Newsletter](https://ethhub.substack.com)
+1. [Dashboard](https://docs.ethhub.io/ethereum-basics/what-is-ethereum/)
+2. [Screener](https://podcast.ethhub.io)
+3. [Documentation](https://ethhub.substack.com)
+4. [Stateless Newsletter](https://governance.substack.com)
 
 The Docs section, where you are now, is the core of EthHub. This documentation is open source and hosted on GitHub which means that anyone has the ability to contribute. The goal is to make sure the information is available, clear, concise, and up to date.
 
 If you're new to Ethereum, [start at this guide](https://docs.ethhub.io/using-ethereum/ethereum-new-user-guide/).
 
-## How to make changes to EthHub pages
-1. Head on over to the [EthHub's Github repo](https://github.com/ethhub-io/ethhub).
+## How to make changes to Stateless pages
+1. Head on over to the [Github repo](https://github.com/boardroom-inc/stateless).
 2. Create a new Github account or login into your existing account
 3. [Follow this great guide to learn how to make your first pull request](https://www.youtube.com/watch?v=YTbRzhQju4c&t=1s)
 

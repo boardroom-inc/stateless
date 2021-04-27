@@ -1,5 +1,5 @@
 ---
-title: Ethereum Foundation Conflict of Interest Disclosures - EthHub
+title: Ethereum Foundation Conflict of Interest Disclosures - stateless
 
 description: The following disclosures were voluntarily provided by EF members in an AMA about Ethereum Leadership and Accountability.
 ---

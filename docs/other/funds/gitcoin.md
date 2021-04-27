@@ -1,4 +1,4 @@
-title: Gitcoin Grants - EthHub
+title: Gitcoin Grants - stateless
 
 description: Fast, easy, and secure way to provide recurring token contributions to the best OSS maintainers in your community.
 

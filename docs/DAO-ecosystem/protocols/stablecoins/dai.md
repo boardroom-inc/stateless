@@ -1,4 +1,4 @@
-title: Dai - EthHub
+title: Dai - stateless
 
 description: The Dai Stablecoin system maintains the stable value of Dai by ensuring that each Dai is always backed by a collateralized asset of more value.
 

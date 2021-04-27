@@ -1,5 +1,5 @@
 ---
-title: What is the Foundation's grant process? - EthHub
+title: What is the Foundation's grant process? - stateless
 
 description: Members of the Ethereum community came together to create a document aimed at disscussing ideas for new methods and processes that the Foundation.
 ---
@@ -65,6 +65,6 @@ iv. Mentoring from the funding foundation to help guide the grantee. This would 
 ## Resources
 
 * [How the Ethereum Foundation grants program makes decisions](https://blog.ethereum.org/2018/10/24/how-the-ethereum-foundation-grants-program-makes-decisions/)
-* [Ethereum Fundraising Event](https://docs.ethhub.io/other/ethereum-fundraising-event)
+* [Ethereum Fundraising Event](https://docs.stateless.io/other/ethereum-fundraising-event)
 * [Ethereum Foundation Grants Update - The Most Recent Grants Wave](https://blog.ethereum.org/2018/10/15/ethereum-foundation-grants-update-wave-4/)
 

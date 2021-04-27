@@ -1,5 +1,5 @@
 ---
-title: Is Ether a Security? - EthHub
+title: Is Ether a Security? - stateless
 
 description: In the US, the SEC has not issued a formal ruling, but recent comments suggest that they do not believe Ether is a security.
 ---

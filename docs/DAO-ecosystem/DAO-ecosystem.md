@@ -1,5 +1,5 @@
 ---
-title: Built on Ethereum - EthHub
+title: Built on Ethereum - stateless
 
 description: A summarry of different application types build on Ethereum.
 ---

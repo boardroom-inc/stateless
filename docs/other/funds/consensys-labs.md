@@ -1,4 +1,4 @@
-title: Consensys Labs - EthHub
+title: Consensys Labs - stateless
 
 description: ConsenSys Labs incubates the best teams of Web3 across the globe, providing them mentorship, and access to the ConsenSys network of top-tier projects.
 

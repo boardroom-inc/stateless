@@ -1,4 +1,4 @@
-title: Gemini Dollar - EthHub
+title: Gemini Dollar - stateless
 
 description: Gemini Dollar is an ERC20 token pegged to the US Dollar. The collateral is stored with Gemini's banking partners and is collateralized 1 to 1.
 

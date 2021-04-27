@@ -1,5 +1,5 @@
 ---
-title: Why do you have to pay to use Ethereum? - EthHub
+title: Why do you have to pay to use Ethereum? - stateless
 
 description: Every transaction that occurs on the Ethereum network requires computational resources.
 ---

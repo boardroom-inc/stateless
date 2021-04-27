@@ -5,7 +5,7 @@ theme:
   name: 'material'
   custom_dir: 'docs/material'
   palette:
-    primary: 'ethhub'
+    primary: 'purple'
   logo: 'logo.png'
   favicon: 'assets/images/favicon.ico'
   feature:
@@ -21,15 +21,15 @@ repo_url: 'https://github.com/boardroom-inc/stateless'
 extra:
   social:
     - type: 'github'
-      link: 'https://github.com/ethhub-io/ethhub'
+      link: 'https://github.com/stateless-io/stateless'
     - type: 'twitter'
-      link: 'https://twitter.com/ethhub_io'
+      link: 'https://twitter.com/stateless_io'
     - type: 'medium'
-      link: 'https://medium.com/ethhub'
+      link: 'https://medium.com/stateless'
     - type: 'comment'
       link: 'https://discordapp.com/invite/gw8AM98'
     - type: 'instagram'
-      link: 'https://www.instagram.com/ethhub_io/'
+      link: 'https://www.instagram.com/stateless_io/'
 
 google_analytics:
   - 'UA-125892125-2'

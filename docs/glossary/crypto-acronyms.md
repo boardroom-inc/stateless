@@ -1,4 +1,4 @@
-title: Crypto Acronyms - EthHub
+title: Crypto Acronyms - stateless
 
 description: A list of commonly used acronyms for crypto and blockchain.
 

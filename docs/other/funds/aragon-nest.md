@@ -1,4 +1,4 @@
-title: Aragon Nest - EthHub
+title: Aragon Nest - stateless
 
 description: A grants program to support the development of the ecosystems by aragon and placeholder.vc.
 

@@ -36,7 +36,7 @@ Once you set an Ethereum address in the address field, it will resolve in wallet
 
 ![](/assets/images/ens_metamask.png)
 
-And if you point it to an IPFS hash, you can pull up the domain at ethhub.eth/ or ethhub.eth.link for browsers that don't resolve ENS names.
+And if you point it to an IPFS hash, you can pull up the domain at stateless.eth/ or stateless.eth.link for browsers that don't resolve ENS names.
 
 ## Subdomains
 Subdomains offer great flexibility for building on top of .eth domains. If you are a company such as Maker and want to issue all your employees maker.eth subdomains, this is very easy to do. This section will cover both creating subdomains on a domain you own and unique ways of allowing others to buy subdomains on a domain you own.
@@ -46,7 +46,7 @@ If you own a .eth domain and simply want to create subdomains for your own use,
 
 ![](/assets/images/ens_submanage.png)
 
-Once subdomains are setup, they act very similar to domains in that the owner can control them and setup records. That means something like eric.ethhub.eth can also resolve to an address and an IPFS website.
+Once subdomains are setup, they act very similar to domains in that the owner can control them and setup records. That means something like eric.stateless.eth can also resolve to an address and an IPFS website.
 
 ![](/assets/images/ens_submanage2.png)
 

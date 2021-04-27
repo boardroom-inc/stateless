@@ -1,4 +1,4 @@
-title: Tether - EthHub
+title: Tether - stateless
 
 description: Tether has made headway by giving customers the ability to transact with traditional currencies across the blockchain, without the inherent volatility.
 

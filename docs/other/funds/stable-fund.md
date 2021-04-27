@@ -1,4 +1,4 @@
-title: Stable Fund - EthHub
+title: Stable Fund - stateless
 
 description: The Stable Fund is a small to mid-size granting program run by MakerDAO.
 

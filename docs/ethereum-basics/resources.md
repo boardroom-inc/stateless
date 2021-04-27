@@ -1,5 +1,5 @@
 ---
-title: Key Ethereum Resources - EthHub
+title: Key Ethereum Resources - stateless
 
 description: A list of essential Ethereum resources.
 ---
@@ -48,7 +48,7 @@ description: A list of essential Ethereum resources.
 
 ### Podcasts
 
-* [Into the Ether](https://podcast.ethhub.io/)
+* [Into the Ether](https://podcast.stateless.io/)
 * [Bankless Podcast](http://podcast.banklesshq.com/)
 * [The Defiant Podcast](https://podcasts.apple.com/us/podcast/the-defiant/id1512654905)
 * [Epicenter](https://epicenter.tv/)
@@ -67,7 +67,7 @@ description: A list of essential Ethereum resources.
 
 ### Newsletters
 
-* [EthHub Weekly Newsletter](https://ethhub.substack.com/)
+* [stateless Weekly Newsletter](https://stateless.substack.com/)
 * [The Daily Gwei](https://thedailygwei.substack.com/)
 * [Week In Ethereum](https://weekinethereumnews.com/)
 * [The Defiant](https://thedefiant.substack.com/)
@@ -138,7 +138,7 @@ description: A list of essential Ethereum resources.
 
 #### Wallets
 
-* [EthHub Wallets Section](https://docs.ethhub.io/using-ethereum/wallets/intro-to-ethereum-wallets/)
+* [stateless Wallets Section](https://docs.stateless.io/using-ethereum/wallets/intro-to-ethereum-wallets/)
 * [MyEtherWallet](https://www.myetherwallet.com/)
 * [MyCrypto](https://mycrypto.com/)
 * [MetaMask](https://metamask.io/)
@@ -215,7 +215,7 @@ description: A list of essential Ethereum resources.
 
 ### Decentralized Exchanges \(DEXs\)
 
-* [EthHub DEX Section](https://docs.ethhub.io/built-on-ethereum/decentralized-exchanges/what-are-decentralized-exchanges/)
+* [stateless DEX Section](https://docs.stateless.io/built-on-ethereum/decentralized-exchanges/what-are-decentralized-exchanges/)
 * [List of all Decentralized Exchanges](https://github.com/distribuyed/index/blob/master/README.md)
 * [Uniswap](https://app.uniswap.org/#/swap)
 * [Radar Relay](https://relay.radar.tech/)

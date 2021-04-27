@@ -1,4 +1,4 @@
-title: CryptoPunks - EthHub
+title: CryptoPunks - stateless
 
 description: CryptoPunks are unique pixel art collectibles with individual chracteristics stored on the Ethereum blockchain.
 

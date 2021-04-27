@@ -1,5 +1,5 @@
 ---
-title: Ethereum Transactions - EthHub
+title: Ethereum Transactions - stateless
 
 description: Explanation of Ethereum transactions including gas and the fee market.
 ---

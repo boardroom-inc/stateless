@@ -1,4 +1,4 @@
-title: Status Incubate - EthHub
+title: Status Incubate - stateless
 
 description: A web3 incubator run by the Status team.
 

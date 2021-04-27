@@ -16,7 +16,7 @@ Ether \(ETH or Ξ\) is the native cryptocurrency used on the Ethereum network an
 
 Ether is required to transact on the Ethereum network.
 
-As explained in the [gas section](https://docs.ethhub.io/using-ethereum/transactions/#gas), every transaction that occurs on the network requires a set amount of gas, which is the unit used to measure the computational power required to process a transaction. To process a transaction and include it in a block, miners are expected to be compensated for this task. This is accomplished by setting a gas price with every transaction, which is the cost of 1 unit of gas, denominated in Gwei \(1 ETH = 1,000,000,000 Gwei\).
+As explained in the [gas section](https://docs.stateless.io/using-ethereum/transactions/#gas), every transaction that occurs on the network requires a set amount of gas, which is the unit used to measure the computational power required to process a transaction. To process a transaction and include it in a block, miners are expected to be compensated for this task. This is accomplished by setting a gas price with every transaction, which is the cost of 1 unit of gas, denominated in Gwei \(1 ETH = 1,000,000,000 Gwei\).
 
 For example, when you simply send ETH from one account to another, this cost 21,000 gas. If you were to set a gas price of 1 Gwei, this transaction would cost 0.000021 ETH.
 
@@ -30,7 +30,7 @@ In addition to utility value, Ether also has speculative value. This is value th
 
 > Can’t tokens on Ethereum be used instead of Ether?
 
-Theoretically, yes. Practically, no. The concept of using another asset to secure the Ethereum network is called ‘economic abstraction’ \(a good primer can be found [here](https://docs.ethhub.io/questions-about-ethereum/is-ether-needed-for-transaction-fees). This would involve miners / validators accepting tokens other than Ether in exchange for adding valid transactions to new blocks.
+Theoretically, yes. Practically, no. The concept of using another asset to secure the Ethereum network is called ‘economic abstraction’ \(a good primer can be found [here](https://docs.stateless.io/questions-about-ethereum/is-ether-needed-for-transaction-fees). This would involve miners / validators accepting tokens other than Ether in exchange for adding valid transactions to new blocks.
 
 It is highly unlikely that the Ethereum protocol will ever implement economic abstraction as it could potentially reduce the security of the blockchain by compromising the value of Ether.
 
@@ -60,5 +60,5 @@ In Ethereum 2.0 \(with Sharding and Proof of Stake implemented\), while a low in
 
 ## Resources
 
-* [Why Ether is Valuable](https://medium.com/ethhub/why-ether-is-valuable-2b4e39e01eb3)
+* [Why Ether is Valuable](https://medium.com/stateless/why-ether-is-valuable-2b4e39e01eb3)
 * [Ether: A New Model for Money](https://medium.com/pov-crypto/ether-a-new-model-for-money-17365b5535ba)

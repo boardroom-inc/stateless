@@ -34,7 +34,7 @@ _Or, you could withdraw a portion, such as your original 1,000 DAI, which would 
 
 ## The Utility of cTokens 
 
-cTokens makes it easier for both users and developers to interact with the Compound protocol. cTokens are [ERC20 tokens](https://docs.ethhub.io/guides/a-straightforward-guide-erc20-tokens/), which is the defacto token standard on Ethereum. Almost all developers are already familiar with the ERC20 standard and most users have wallets that support ERC20 tokens. 
+cTokens makes it easier for both users and developers to interact with the Compound protocol. cTokens are [ERC20 tokens](https://docs.stateless.io/guides/a-straightforward-guide-erc20-tokens/), which is the defacto token standard on Ethereum. Almost all developers are already familiar with the ERC20 standard and most users have wallets that support ERC20 tokens. 
 
 Having Compound’s balances tokenized allows for a greater amount of compossibility. Since these tokens can be easily transferred like any other token, they can be created with one address, sent to a cold storage address that has never been touched, and securely earn interest. They can also be sold on an exchange or even potentially used as collateral for a loan on a different platform. 
 

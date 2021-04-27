@@ -1,5 +1,5 @@
 ---
-title: Governance on Ethereum - EthHub
+title: Governance on Ethereum - stateless
 
 description: The core components of Ethereum’s governance system.
 ---

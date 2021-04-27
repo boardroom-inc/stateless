@@ -1,4 +1,4 @@
-title: 0x Ecosystem Acceleration Program - EthHub
+title: 0x Ecosystem Acceleration Program - stateless
 
 description: The 0x Ecosystem Acceleration Program gives teams access to a variety of services including funding, technical support, and recruiting assistance.
 

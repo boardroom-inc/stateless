@@ -1,5 +1,5 @@
 ---
-title: Is Ethereum Immutable? - EthHub
+title: Is Ethereum Immutable? - stateless
 
 description: Transactions and data stored within the Ethereum blockchain are immutable.
 ---

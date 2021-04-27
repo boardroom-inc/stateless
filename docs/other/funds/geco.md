@@ -1,4 +1,4 @@
-title: Gnosis Ecosystem Fund - EthHub
+title: Gnosis Ecosystem Fund - stateless
 
 description: The Gnosis Ecosystem Fund empowers teams to drive the global adoption of decentralized application.
 

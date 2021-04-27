@@ -1,4 +1,4 @@
-title: Eth Prize - EthHub
+title: Eth Prize - stateless
 
 description: ETH Prize is a community research and bounty project that identifies the most critical issues and organizes bounties to solve them.
 

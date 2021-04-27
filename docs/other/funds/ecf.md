@@ -1,4 +1,4 @@
-title: Ethereum Community Fund - EthHub
+title: Ethereum Community Fund - stateless
 
 description: The Ethereum Community Fund (ECF) is a nonprofit initiative providing financial support and guidance to various blockchain projects.
 

@@ -1,7 +1,7 @@
-# EthHub Translations
+# stateless Translations
 
-EthHub Docs are available in the following languages:
+stateless Docs are available in the following languages:
 
-[Chinese](https://zh.docs.ethhub.io)
+[Chinese](https://zh.docs.stateless.io)
 
 

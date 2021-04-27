@@ -1,5 +1,5 @@
 ---
-title: Can Ethereum be Copied? - EthHub
+title: Can Ethereum be Copied? - stateless
 
 description: While Ethereum's code is open-source, the actual value of Ethereum is the network of users, developers, and applications using the Ethereum network that give it value.
 ---

@@ -1,5 +1,5 @@
 ---
-title: Get a High-Yield Savings Account on Ethereum - EthHub
+title: Get a High-Yield Savings Account on Ethereum - stateless
 
 description: Learn how to use Ethereum as a high yield savings account.
 ---
@@ -49,6 +49,6 @@ There is always the possibility that smart contracts have bugs. If you are worri
 Most lending rates on Ethereum are variable, meaning they can move up and down at any time, much like traditional savings accounts. Different protocols handle rate movements in different ways but all are derived on the function of supply and demand. If there is more demand than supply, rates will go up, and vice versa.
 
 
-**DISCLAIMER: EthHub is a completely independent and open-source initiative founded by Ethereum community members. Nothing contained in this Github repository should be considered financial or investment advice - it is for informational purposes only.**
+**DISCLAIMER: stateless is a completely independent and open-source initiative founded by Ethereum community members. Nothing contained in this Github repository should be considered financial or investment advice - it is for informational purposes only.**
 
 

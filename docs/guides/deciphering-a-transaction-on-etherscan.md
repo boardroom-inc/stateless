@@ -62,17 +62,17 @@ Typically, the value field is left empty for token transfers because we only nee
 
 ## An Externally Owned Account (EOA) Creating a Contract
 
-Below is the transaction that created the Ethhub contract wallet. The most notable difference for contract creation transactions is that the input data contains the bytecode for the contract’s logic. We can see that the contract’s address is displayed in the To field with “Created” next to it. 
+Below is the transaction that created the stateless contract wallet. The most notable difference for contract creation transactions is that the input data contains the bytecode for the contract’s logic. We can see that the contract’s address is displayed in the To field with “Created” next to it. 
 
-![](/assets/images/etherscan_guide/ethhub_creation_tx.png)
+![](/assets/images/etherscan_guide/stateless_creation_tx.png)
 
 ## Transferring Ether from an Externally Owned Account (EOA) to a Contract Account
 
 If you are sending Ether to a contract address, the gas cost can vary from the standard 21,000 gas. 
 
-![](/assets/images/etherscan_guide/Eth_to_EthHub_tx.png)
+![](/assets/images/etherscan_guide/Eth_to_stateless_tx.png)
 
-Viewing the transaction above we can see that someone made an Ether deposit to the Ethhub contract wallet, which required 22,511 gas. This is because the contract wallet also emits a Deposit event when receiving Ether, which bumps the gas cost over 21,000. 
+Viewing the transaction above we can see that someone made an Ether deposit to the stateless contract wallet, which required 22,511 gas. This is because the contract wallet also emits a Deposit event when receiving Ether, which bumps the gas cost over 21,000. 
 
 ![](/assets/images/etherscan_guide/Eth_EOA_to_contract_diagram.png)
 

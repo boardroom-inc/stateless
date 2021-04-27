@@ -80,7 +80,7 @@
   
     
     
-    <body dir="ltr" data-md-color-primary="ethhub" data-md-color-accent="">
+    <body dir="ltr" data-md-color-primary="stateless" data-md-color-accent="">
   
     <svg class="md-svg">
       <defs>
@@ -1904,12 +1904,12 @@
 <p>Typically, the value field is left empty for token transfers because we only need to update to the contract’s balances. Lastly, the gas cost for transferring ERC20 tokens can vary depending on how to contract was implemented.</p>
 <p><img alt="" src="/assets/images/etherscan_guide/token_transfer_diagram.png" /></p>
 <h2 id="an-externally-owned-account-eoa-creating-a-contract">An Externally Owned Account (EOA) Creating a Contract</h2>
-<p>Below is the transaction that created the Ethhub contract wallet. The most notable difference for contract creation transactions is that the input data contains the bytecode for the contract’s logic. We can see that the contract’s address is displayed in the To field with “Created” next to it. </p>
-<p><img alt="" src="/assets/images/etherscan_guide/ethhub_creation_tx.png" /></p>
+<p>Below is the transaction that created the stateless contract wallet. The most notable difference for contract creation transactions is that the input data contains the bytecode for the contract’s logic. We can see that the contract’s address is displayed in the To field with “Created” next to it. </p>
+<p><img alt="" src="/assets/images/etherscan_guide/stateless_creation_tx.png" /></p>
 <h2 id="transferring-ether-from-an-externally-owned-account-eoa-to-a-contract-account">Transferring Ether from an Externally Owned Account (EOA) to a Contract Account</h2>
 <p>If you are sending Ether to a contract address, the gas cost can vary from the standard 21,000 gas. </p>
-<p><img alt="" src="/assets/images/etherscan_guide/Eth_to_EthHub_tx.png" /></p>
-<p>Viewing the transaction above we can see that someone made an Ether deposit to the Ethhub contract wallet, which required 22,511 gas. This is because the contract wallet also emits a Deposit event when receiving Ether, which bumps the gas cost over 21,000. </p>
+<p><img alt="" src="/assets/images/etherscan_guide/Eth_to_stateless_tx.png" /></p>
+<p>Viewing the transaction above we can see that someone made an Ether deposit to the stateless contract wallet, which required 22,511 gas. This is because the contract wallet also emits a Deposit event when receiving Ether, which bumps the gas cost over 21,000. </p>
 <p><img alt="" src="/assets/images/etherscan_guide/Eth_EOA_to_contract_diagram.png" /></p>
 <p>That is why it is important to know what kind of account you are sending to before you assume that the gas cost will be 21,000 gas or else the transaction might run out of gas. In addition, there can be harmful side effects to sending a transaction to a contract that you aren’t familiar with because contracts are able to forward messages to other contracts. Meaning that calling a function or simply depositing Ether to a malicious contract could execute code that might yield a negative result. </p>
 <p>Please always make sure that you trust the contract that you are about to submit a transaction to and set a reasonable gas limit.</p>
@@ -1982,15 +1982,15 @@
   <div class="md-footer-social">
     <link rel="stylesheet" href="../../assets/fonts/font-awesome.css">
     
-      <a href="https://github.com/ethhub-io/ethhub" class="md-footer-social__link fa fa-github"></a>
+      <a href="https://github.com/stateless-io/stateless" class="md-footer-social__link fa fa-github"></a>
     
-      <a href="https://twitter.com/ethhub_io" class="md-footer-social__link fa fa-twitter"></a>
+      <a href="https://twitter.com/stateless_io" class="md-footer-social__link fa fa-twitter"></a>
     
-      <a href="https://medium.com/ethhub" class="md-footer-social__link fa fa-medium"></a>
+      <a href="https://medium.com/stateless" class="md-footer-social__link fa fa-medium"></a>
     
       <a href="https://discordapp.com/invite/gw8AM98" class="md-footer-social__link fa fa-comment"></a>
     
-      <a href="https://www.instagram.com/ethhub_io/" class="md-footer-social__link fa fa-instagram"></a>
+      <a href="https://www.instagram.com/stateless_io/" class="md-footer-social__link fa fa-instagram"></a>
     
   </div>
 

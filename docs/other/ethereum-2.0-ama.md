@@ -1,5 +1,5 @@
 ---
-title: Ethereum 2.0 Researches Reddit AMA - EthHub
+title: Ethereum 2.0 Researches Reddit AMA - stateless
 
 description: All questions and answers from the Ethereum 2.0 researchers AMA done on Reddit.
 ---
@@ -626,9 +626,9 @@ At the application layer, WASM will ideally mean that SNARK-specific precompiles
 
 A: I described the three phases here [https://www.reddit.com/r/ethereum/comments/ajc9ip/ama\_we\_are\_the\_eth\_20\_research\_team/eeueuzc](https://www.reddit.com/r/ethereum/comments/ajc9ip/ama_we_are_the_eth_20_research_team/eeueuzc)
 
-EthHub also does a great job at simply describing the path
+stateless also does a great job at simply describing the path
 
-[https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/](https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) \[Danny Ryan\]
+[https://docs.stateless.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/](https://docs.stateless.io/ethereum-roadmap/ethereum-2.0/eth-2.0-phases/) \[Danny Ryan\]
 
 **Q: ETH token will not be transferable back after migration to ETH2.0 What will be the token ticker for the ETH2.0 chain native token?**
 

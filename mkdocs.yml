@@ -1,5 +1,5 @@
-site_name: Stateless
-site_description: A trusted resource for all things DAOs, powered by Boardroom.
+site_name: Stateless by Boardroom
+site_description: A trusted resource covering all things digital, distributed organizations, powered by Boardroom.
 site_url: https://learn.boardroom.info
 theme:
   name: 'material'
@@ -9,10 +9,6 @@ theme:
     accent: 'white'
   logo: 'logo.png'
   favicon: 'assets/images/favicon.ico'
-  feature:
-    tabs: true
-  logo: 'logo.png'
-  favicon: 'site/favicon.ico'
   feature:
     tabs: true
 
@@ -26,9 +22,9 @@ repo_url: 'https://github.com/boardroom-inc/stateless'
 extra:
   social:
     - type: 'github'
-      link: 'https://github.com/stateless-io/stateless'
+      link: 'https://github.com/boardroom-inc/stateless'
     - type: 'twitter'
-      link: 'https://twitter.com/stateless_io'
+      link: 'https://twitter.com/boardroom_info'
     - type: 'medium'
       link: 'https://medium.com/stateless'
     - type: 'comment'
@@ -46,14 +42,14 @@ nav:
 - Dashboard: 'https://app.boardroom.info'
 - Documentation: 'https://docs.boardroom.info'
 - DAO Basics:
-  - 'What is Ethereum?': 'ethereum-basics/what-is-ethereum.md'
-  - 'What is a DAO?': 'ethereum-basics/what-is-a-DAO.md'
-  - 'Governance': 'ethereum-basics/governance.md'
-  - 'Resources': 'ethereum-basics/resources.md'
+  - 'What is Ethereum?': 'DAO-basics/what-is-ethereum.md'
+  - 'What is a DAO?': 'DAO-basics/what-is-a-DAO.md'
+  - 'Governance': 'DAO-basics/governance.md'
+  - 'Resources': 'DAO-basics/resources.md'
 - DAO Tooling:
-  - 'How to Buy Ether': 'DAO-tooling/how-to-buy-ether.md'
+  - 'How to start a DAO': 'DAO-tooling/how-to-buy-ether.md'
   - Frameworks:
-    - 'Geth': 'DAO-tooling/frameworks/geth.md'
+    - 'Geth': 'DAO-tooling/frameworks/snapshot.md'
 - DAO Ecosystem:
   - 'DAO Ecosystem': 'DAO-ecosystem/DAO-ecosystem.md'
   - Frameworks:
@@ -62,58 +58,7 @@ nav:
       - 'What are Stablecoins?': 'built-on-ethereum/protocols/stablecoins/what-are-stablecoins.md'
   - Collectibles:
     - 'CryptoPunks': 'built-on-ethereum/collectibles/cryptopunks.md'
-- Guides:
-  - 'Ethereum New User Guide': 'using-ethereum/ethereum-new-user-guide.md'
-  - 'How to Get a High-Yield Savings Account on Ethereum': 'guides/ethereum-high-yield-savings-account.md'
-  - 'A Straightforward Guide to ERC20 Tokens': 'guides/a-straightforward-guide-erc20-tokens.md'
-  - 'Deciphering a Transaction on Etherscan': 'guides/deciphering-a-transaction-on-etherscan.md'
-  - 'Graphical Guide to Understanding Uniswap': 'guides/graphical-guide-for-understanding-uniswap.md'
-  - 'A Graphical Guide to Compound': 'guides/graphical-guide-to-compound.md'
-  - 'The Ultimate Guide to the ENS': 'guides/guide-to-ens.md'
-- Ethereum FAQ:
+- FAQ:
   - 'Is Ethereum more expensive to use as price rises?': 'questions-about-ethereum/is-ethereum-more-expensive-to-use-as-price-rises.md'
-  - 'Why do you have to pay to use Ethereum?': 'questions-about-ethereum/why-do-you-have-to-pay-to-use-ethereum.md'
-  - 'Is Ether a security?': 'questions-about-ethereum/is-ether-a-security.md'
-  - 'Is Ethereum over 1TB in size?': 'questions-about-ethereum/is-ethereum-over-1tb-in-size.md'
-  - 'Is Ethereum immutable?': 'questions-about-ethereum/is-ethereum-immutable.md'
-  - 'Is Ether needed for transaction fees?': 'questions-about-ethereum/is-ether-needed-for-transaction-fees.md'
-  - "If Ethereum is open source why can't it be copied?": 'questions-about-ethereum/if-ethereum-is-open-source-why-cant-it-be-copied.md'
-  - 'What is the Ethereum difficulty bomb (Ice Age)?': 'questions-about-ethereum/what-is-the-difficulty-bomb.md'
-- Other:
-  - 'Ethereum Branding Kit': other/ethereum-branding-kit.md
-  - 'Ethereum 2.0 AMA': 'other/ethereum-2.0-ama.md'
-  - 'Ethereum.org Blog Archive': 'other/ethereum-blog-archive.md'
-  - 'Ethereum Foundation COI Disclosures': 'other/EF-COI-disclosures.md'
-  - 'Grants Process': 'other/grants-process.md'
-  - 'Internationalization': 'other/internationalization.md'
-  - Funds:
-    - '0xeap': 'other/funds/0xeap.md'
-    - 'Aragon Nest': 'other/funds/aragon-nest.md'
-    - 'Consensys Labs': 'other/funds/consensys-labs.md'
-    - 'ECF': 'other/funds/ecf.md'
-    - 'Eth Prize': 'other/funds/eth-prize.md'
-    - 'Geco': 'other/funds/geco.md'
-    - 'Gitcoin': 'other/funds/gitcoin.md'
-    - 'Stable Fund': 'other/funds/stable-fund.md'
-    - 'Status Incubate': 'other/funds/status-incubate.md'
 - Glossary:
   - 'Acronyms': 'glossary/crypto-acronyms.md'
-  - 'ENS Domain Directory': 'glossary/ens-domains.md'
-  - Sideways Dictionary:
-    - 'What is the sideways dictionary?': 'glossary/sideways-dictionary/what-is-the-sideways-dictionary.md'
-    - '2FA': 'glossary/sideways-dictionary/2FA.md'
-    - 'Blockchain': 'glossary/sideways-dictionary/blockchain.md'
-    - 'Cold Storage': 'glossary/sideways-dictionary/cold-storage.md'
-    - 'Cryptojacking': 'glossary/sideways-dictionary/cryptojacking.md'
-    - 'DDOS': 'glossary/sideways-dictionary/ddos.md'
-    - 'Difficulty': 'glossary/sideways-dictionary/difficulty.md'
-    - 'Double Spend': 'glossary/sideways-dictionary/double-spend.md'
-    - 'Forks': 'glossary/sideways-dictionary/forks.md'
-    - 'Multi-Sig': 'glossary/sideways-dictionary/multi-sig.md'
-    - 'Smart Contract': 'glossary/sideways-dictionary/smart-contract.md'
-    - 'State Rent': 'glossary/sideways-dictionary/state-rent.md'
-    - 'Stateless Clients': 'glossary/sideways-dictionary/stateless-clients.md'
-    - 'Uncle Blocks': 'glossary/sideways-dictionary/uncle-blocks.md'
-    - 'Wei': 'glossary/sideways-dictionary/wei.md'
-- Languages:
-  - 'Translations': 'languages/translations.md'

@@ -1,10 +1,10 @@
 ---
-title: Geth - EthHub
+title: Snapshot - Stateless
 
 description: Geth is the Golang implementation of the Ethereum protocol. It is fast, open source software that is actively maintained.
 ---
 
-# Geth
+# Snapshot
 
 ## Summary
 

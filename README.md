@@ -1,11 +1,6 @@
 # Welcome to Stateless
 
-A community driven resource covering digital and distributed organizations and their governance, powered by [Boardroom](https://boardroom.info). Stateless covers the growing 'DO' and 'DAO' ecosystem through four main channels:
-
-1. [Stateless Docs](https://learn.boardroom.info/DAO-basics/what-is-a-DAO/)
-2. [Data Dashboard](https://podcast.stateless.io)
-3. [Stateless Newsletter](https://governance.substack.com)
-4. [Stateless Publication](https://stateless.substack.com)
+A community driven resource covering digital and distributed organizations and their governance, powered by [Boardroom](https://boardroom.info). Stateless covers the growing 'DO' and 'DAO' ecosystem: [Stateless](https://stateless.boardroom.info)
 
 The Docs section, where you are now, is open source and hosted on GitHub which means that anyone has the ability to contribute. The goal is to make sure the information is available, clear, concise, and up to date.
 

@@ -63,3 +63,6 @@ V2 Information:
 
 Aragon Forum:
 https://forum.aragon.org/
+
+Aragon Docs:
+https://hack.aragon.org/docs/getting-started.html

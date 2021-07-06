@@ -43,9 +43,3 @@
 [Description]
 
 ##### Examples
-
-### Investment DAOs
-
-[Description]
-
-##### Examples

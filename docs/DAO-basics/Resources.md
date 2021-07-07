@@ -10,14 +10,24 @@ description: A list of essential DAO resources and links.
 
 ### Introductory Materials 
 
--   [The Ownership Economy ](https://variant.fund/the-ownership-economy-crypto-and-consumer-software/)
--   [A beginner's guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
--   [Mapping out the DAO Ecosystem](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
--   [The Dao of DAOs](https://www.notboring.co/p/the-dao-of-daos)
--   [DAO Links](https://docs.google.com/document/d/1oBMUWawlRcVFYwGXsC5UDrcET3VSXZ_bGAHCViWx8-g/edit)
+###### Stateless Picks
+* [What is a DAO? Mapping Out the Ecosystem](https://thedefiant.io/what-is-a-dao-mapping-out-the-ecosystem/)by Kevin Nielsen
+* [A Beginner Guide to DAOs](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o) by Linda Xie
+* [DAOs Are The Next Big Thing](https://medium.com/coinmonks/daos-are-the-next-best-thing-4efaff6662f6) by Jimmy Chang
+* [Decentralized Autonomous Organisations (DAOs)](https://ethereum.org/en/dao/) by The Ethereum Foundation
+* [Everything you need to know about DAOs.](https://foundation.app/blog/everything-you-need-to-know-about-daos] by Foundation
+* [DAOs, DACs, DAs and More: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/) by Vitalik Buterin
+* [D(?)A(?)O - Decentralization and Autonomy in “DAOs”](https://boardroom.mirror.xyz/N0kJ-y_5wvPR0H1MMNFb531MOKEE4LKWxepzQLj18sw) by James Duncan
+* [The DAO of DAOs](https://www.notboring.co/p/the-dao-of-daos) by Packy McCormick
 
 ### Further Education
 
+###### DAOs
+-   [The Ownership Economy ](https://variant.fund/the-ownership-economy-crypto-and-consumer-software/)
+-   [Mapping out the DAO Ecosystem](https://linda.mirror.xyz/Vh8K4leCGEO06_qSGx-vS5lvgUqhqkCz9ut81WwCP2o)
+-   [DAO Links](https://docs.google.com/document/d/1oBMUWawlRcVFYwGXsC5UDrcET3VSXZ_bGAHCViWx8-g/edit)
+
+###### Decentralization
 -   [Politics, Power & Protocols](https://coinshares.com/insights/politics-power-protocols)
 -   [Ten Theses on Decentralized Network Governance](https://mariolaul.medium.com/ten-theses-on-decentralized-network-governance-c1a24a9d59c7)
 -   [Leadership in the Ownership Economy](https://variant.fund/leadership-in-the-ownership-economy/)

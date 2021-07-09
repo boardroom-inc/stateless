@@ -43,8 +43,9 @@ nav:
 - Publication: 'https://stateless.mirror.xyz'
 - Basics:
   - 'What is a DAO?': 'DAO-basics/what-is-a-DAO.md'
-  - 'What is Ethereum?': 'DAO-basics/what-is-ethereum.md'
-  - 'Governance': 'DAO-basics/governance.md'
+  - 'Types of DAOs': 'DAO-basics/types-of-DAOs.md'
+  - 'Progressive Decentralization': 'DAO-basics/progressive-decentralization.md'
+  - 'DAO Treasuries': 'DAO-basics/DAO-treasuries.md'
   - 'Resources': 'DAO-basics/resources.md'
 - Tooling:
   - 'How to start a DAO': 'DAO-tooling/how-to-buy-ether.md'

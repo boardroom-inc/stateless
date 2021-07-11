@@ -47,6 +47,14 @@ nav:
   - 'Progressive Decentralization': 'DAO-basics/progressive-decentralization.md'
   - 'DAO Treasuries': 'DAO-basics/DAO-treasuries.md'
   - 'Resources': 'DAO-basics/resources.md'
+- Governance:
+  - 'What Does Governance Mean': 'Governance/what-does-governance-mean?.md'
+  - 'On-Chain Governance': 'Governance/on-chain-governance.md'
+  - 'Off-Chain Governance': 'Governance/off-chain-governance.md'
+  - 'Soft Governance': 'Governance/soft-governance.md'
+  - 'Delegation': 'Governance/delegation.md'
+  - 'Governance Strategies': 'Governance/governance-strategies.md'
+  - 'Resources': 'Governance/resources.md'
 - Tooling:
   - 'How to start a DAO': 'DAO-tooling/how-to-buy-ether.md'
   - Frameworks:

@@ -56,9 +56,16 @@ nav:
   - 'Governance Strategies': 'Governance/governance-strategies.md'
   - 'Resources': 'Governance/resources.md'
 - Tooling:
-  - 'How to start a DAO': 'DAO-tooling/how-to-buy-ether.md'
+  - 'DAO Tooling': 'DAO-tooling/overview.md'
   - Frameworks:
-    - 'Snapshot': 'DAO-tooling/frameworks/snapshot.md'
+    - 'Aragon': 'DAO-tooling/DAO-Frameworks/aragon.md'
+    - 'Colony': 'DAO-tooling/DAO-Frameworks/colony.md'
+    - 'Compound Governor Alpha': 'DAO-tooling/DAO-Frameworks/compound-alpha.md'
+    - 'Compound Governor Bravo': 'DAO-tooling/DAO-Frameworks/compound-bravo.md'
+    - 'DAOStack': 'DAO-tooling/DAO-Frameworks/daostack.md'
+    - 'Moloch': 'DAO-tooling/DAO-Frameworks/moloch.md'
+    - 'Openlaw': 'DAO-tooling/DAO-Frameworks/openlaw.md'
+    - 'Resources': 'DAO-tooling/DAO-Frameworks/resources.md'
 - Ecosystem:
   - 'DAO Ecosystem': 'DAO-ecosystem/DAO-ecosystem.md'
   - Frameworks:

@@ -1,5 +1,5 @@
 ---
-title: How to Buy Ether (ETH) - stateless
+title: DAO Tooling - stateless
 
 description: Best ways to buy ETH (Ether), the currency needed to use the Ethereum network.
 ---

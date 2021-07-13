@@ -66,14 +66,14 @@ nav:
 - DAO Ecosystem:
   - 'DAO Ecosystem': 'DAO-ecosystem/DAO-ecosystem.md'
   - Frameworks:
-    - 'Aragon': 'DAO-Frameworks/aragon.md'
-    - 'Colony': 'DAO-Frameworks/colony.md'
-    - 'Compound Governor Alpha': 'DAO-Frameworks/compound-alpha.md'
-    - 'Compound Governor Bravo': 'DAO-Frameworks/compound-bravo.md'
-    - 'DAOStack': 'DAO-Frameworks/daostack.md'
-    - 'Moloch': 'DAO-Frameworks/moloch.md'
-    - 'Openlaw': 'DAO-Frameworks/openlaw.md'
-    - 'Resources': 'DAO-Frameworks/resources.md'
+    - 'Aragon': 'DAO-frameworks/aragon.md'
+    - 'Colony': 'DAO-frameworks/colony.md'
+    - 'Compound Governor Alpha': 'DAO-frameworks/compound-alpha.md'
+    - 'Compound Governor Bravo': 'DAO-frameworks/compound-bravo.md'
+    - 'DAOStack': 'DAO-frameworks/daostack.md'
+    - 'Moloch': 'DAO-frameworks/moloch.md'
+    - 'Openlaw': 'DAO-frameworks/openlaw.md'
+    - 'Resources': 'DAO-frameworks/resources.md'
 - FAQ:
   - 'Is Ethereum more expensive to use as price rises?': 'questions-about-ethereum/is-ethereum-more-expensive-to-use-as-price-rises.md'
 - Glossary:

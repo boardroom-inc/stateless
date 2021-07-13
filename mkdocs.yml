@@ -41,7 +41,7 @@ nav:
 - Dashboard: 'https://boardroom.info/learn'
 - Newsletter: 'https://governance.substack.com'
 - Publication: 'https://stateless.mirror.xyz'
-- Basics:
+- DAO Basics:
   - 'What is a DAO?': 'DAO-basics/what-is-a-DAO.md'
   - 'Types of DAOs': 'DAO-basics/types-of-DAOs.md'
   - 'Progressive Decentralization': 'DAO-basics/progressive-decentralization.md'
@@ -55,8 +55,16 @@ nav:
   - 'Delegation': 'Governance/delegation.md'
   - 'Governance Strategies': 'Governance/governance-strategies.md'
   - 'Resources': 'Governance/resources.md'
-- Tooling:
-  - 'DAO Tooling': 'DAO-tooling/overview.md'
+- DAO Tooling:
+  - 'DAO Tooling': 'DAO-tooling/tooling-overview.md'
+  - 'Communication': 'DAO-tooling/communication.md'
+  - 'Development': 'DAO-tooling/communication.md'
+  - 'Voting': 'DAO-tooling/communication.md'
+  - 'Work': 'DAO-tooling/work.md'
+  - 'Treasury': 'DAO-tooling/communication.md'
+  - 'Resources': 'DAO-tooling/communication.md'
+- DAO Ecosystem:
+  - 'DAO Ecosystem': 'DAO-ecosystem/DAO-ecosystem.md'
   - Frameworks:
     - 'Aragon': 'DAO-tooling/DAO-Frameworks/aragon.md'
     - 'Colony': 'DAO-tooling/DAO-Frameworks/colony.md'
@@ -66,14 +74,6 @@ nav:
     - 'Moloch': 'DAO-tooling/DAO-Frameworks/moloch.md'
     - 'Openlaw': 'DAO-tooling/DAO-Frameworks/openlaw.md'
     - 'Resources': 'DAO-tooling/DAO-Frameworks/resources.md'
-- Ecosystem:
-  - 'DAO Ecosystem': 'DAO-ecosystem/DAO-ecosystem.md'
-  - Frameworks:
-    - 'Governance Frameworks': 'DAO-ecosystem/protocols/what-is-open-finance.md'
-    - Stablecoins:
-      - 'What are Stablecoins?': 'built-on-ethereum/protocols/stablecoins/what-are-stablecoins.md'
-  - Collectibles:
-    - 'CryptoPunks': 'built-on-ethereum/collectibles/cryptopunks.md'
 - FAQ:
   - 'Is Ethereum more expensive to use as price rises?': 'questions-about-ethereum/is-ethereum-more-expensive-to-use-as-price-rises.md'
 - Glossary:

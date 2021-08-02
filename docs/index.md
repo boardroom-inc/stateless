@@ -4,7 +4,7 @@ title: Boardroom Learn | DAO Wiki
 description: A community resource covering all things DAOs
 ---
 
-# Welcome to the Boardroom Learn | DAO Wiki
+# Welcome to Boardroom Learn
 
 A community driven resource covering digital and distributed organizations and their governance, powered by [Boardroom](https://boardroom.info). This wiki covers the growing 'DO' and 'DAO' ecosystem.
 

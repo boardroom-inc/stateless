@@ -1,6 +1,6 @@
-# Welcome to the Boardroom DAO Wiki
+# Welcome to Boardroom Learn
 
-A community driven resource covering digital and distributed organizations and their governance, powered by [Boardroom](https://boardroom.info). This wiki covers the growing 'DO' and 'DAO' ecosystem: [Stateless](https://stateless.boardroom.info)
+A community driven resource covering digital and distributed organizations and their governance, powered by [Boardroom](https://boardroom.info). This wiki covers the growing 'DO' and 'DAO' ecosystem.
 
 The Docs section, where you are now, is open source and hosted on GitHub which means that anyone has the ability to contribute. The goal is to make sure the information is available, clear, concise, and up to date.
 

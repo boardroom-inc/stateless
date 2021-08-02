@@ -53,7 +53,7 @@
 - [Telegram](https://twitter.com/daostack)
 - [Email](hello@daostack.io)
 
-Habitat
+## Habitat
 - [Website](https://0xhabitat.org/)
 - [Discord](https://discord.com/invite/Pqdj73UTt6)
 - [Twitter](https://twitter.com/EnterTheHabitat)

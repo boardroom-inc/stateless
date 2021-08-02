@@ -16,7 +16,7 @@
 ## CabinDAO
 - [Website](https://www.creatorcabins.com/)
 - [Instagram](https://www.instagram.com/creatorcabins/)
-- [Twitter](https://twitter.com/creatorcabins?lang=en)\
+- [Twitter](https://twitter.com/creatorcabins?lang=en)
 
 ## FiatLuxDAO
 - [Foundation](https://foundation.app/@FiatLuxDAO)

@@ -213,11 +213,11 @@ nav:
     - 'TheWIPmeetup': 'DAO-ecosystem/social-daos/thewipmeetup.md'
   - Media DAOs:
     - 'What is a Media DAO?': 'DAO-ecosystem/media-daos/what-is-a-media-dao.md'
-    - 'BanklessDAO': 'DAO-ecosystem/social-daos/banklessdao.md'
-    - 'DarkstarDAO': 'DAO-ecosystem/social-daos/darkstardao.md'
-    - 'FOREFRONT': 'DAO-ecosystem/social-daos/forefront.md'
-    - 'GRC': 'DAO-ecosystem/social-daos/grc.md'
-    - 'rekt': 'DAO-ecosystem/social-daos/rekt.md'
+    - 'BanklessDAO': 'DAO-ecosystem/media-daos/banklessdao.md'
+    - 'DarkstarDAO': 'DAO-ecosystem/media-daos/darkstardao.md'
+    - 'FOREFRONT': 'DAO-ecosystem/media-daos/forefront.md'
+    - 'GRC': 'DAO-ecosystem/media-daos/grc.md'
+    - 'rekt': 'DAO-ecosystem/media-daos/rekt.md'
   - 'Resources': 'DAO-ecosystem/resources.md'
 - Governance:
   - 'What Does Governance Mean': 'Governance/what-does-governance-mean?.md'

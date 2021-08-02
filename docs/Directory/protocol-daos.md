@@ -116,7 +116,7 @@
 - [Website](https://lido.fi/)
 - [Discord](https://discord.gg/vgdPfhZ)
 - [Twitter](https://twitter.com/lidofinance)
-- [Telegram](https://t.me/lidofinance)\
+- [Telegram](https://t.me/lidofinance)
 - [GitHub](https://github.com/lidofinance)
 - [Reddit](https://www.reddit.com/r/LidoFinance)
 
@@ -186,7 +186,7 @@
 ## Sushi
 - [Website](https://sushi.com/)
 - [Discord](https://discord.gg/CD2YdZzb7Z)
-- [Twitter](https://twitter.com/sushiswap)\
+- [Twitter](https://twitter.com/sushiswap)
 - [GitHub](https://github.com/sushiswap=)
 - [Medium](https://sushichef.medium.com/)
 - [Forum](https://forum.sushi.com/)

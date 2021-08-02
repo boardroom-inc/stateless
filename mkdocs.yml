@@ -127,7 +127,7 @@ nav:
     - 'Uniswap Grants': 'DAO-ecosystem/grant-daos/uniswap-grants.md'
   - Collector DAOs:
     - 'What are Collector DAOs?': 'DAO-ecosystem/collector-daos/what-are-collector-daos.md'
-    - 'BeetsDAO': 'DAO-ecosystem/collector-daos/Beetsdao.md'
+    - 'BeetsDAO': 'DAO-ecosystem/collector-daos/beetsdao.md'
     - 'BRRDAO': 'DAO-ecosystem/collector-daos/brrdao.md'
     - 'FingerprintsDAO': 'DAO-ecosystem/collector-daos/fingerprintsdao.md'
     - 'Flamingo': 'DAO-ecosystem/collector-daos/flamingo.md'
@@ -199,7 +199,7 @@ nav:
     - 'What is a Social DAO?': 'DAO-ecosystem/social-daos/what-is-a-social-dao.md'
     - 'BAYC': 'DAO-ecosystem/social-daos/bayc.md'
     - 'Bright Moments': 'DAO-ecosystem/social-daos/bright-moments.md'
-    - CabinDAO': 'DAO-ecosystem/social-daos/cabindao.md'
+    - 'CabinDAO': 'DAO-ecosystem/social-daos/cabindao.md'
     - 'FiatLuxDAO': 'DAO-ecosystem/social-daos/fiatluxdao.md'
     - 'FWB': 'DAO-ecosystem/social-daos/fwb.md'
     - 'KrausHaus': 'DAO-ecosystem/social-daos/kraushaus.md'
@@ -208,7 +208,7 @@ nav:
     - 'PROOF OF HUMANITY': 'DAO-ecosystem/social-daos/proof-of-humanity.md'
     - 'ProsperDAO': 'DAO-ecosystem/social-daos/prosperdao.md'
     - 'Radicle': 'DAO-ecosystem/social-daos/radicle.md'
-    - 'Seed Club': 'DAO-ecosystem/social-daos/seed-club.md'
+    - 'Seed ßClub': 'DAO-ecosystem/social-daos/seed-club.md'
     - 'SongCamp': 'DAO-ecosystem/social-daos/songcamp.md'
     - 'TheWIPmeetup': 'DAO-ecosystem/social-daos/thewipmeetup.md'
   - Media DAOs:

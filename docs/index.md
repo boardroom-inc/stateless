@@ -1,18 +1,18 @@
 ---
-title: Boardroom DAO Wiki
+title: Boardroom Learn | DAO Wiki
 
-description: A community resource covering DAOs - powered by Boardroom
+description: A community resource covering all things DAOs
 ---
 
-# Welcome to the Boardroom Wiki
+# Welcome to the Boardroom Learn | DAO Wiki
 
-A community driven resource covering digital and distributed organizations and their governance, powered by [Boardroom](https://boardroom.info). This wiki covers the growing 'DO' and 'DAO' ecosystem: [Stateless](https://stateless.boardroom.info)
+A community driven resource covering digital and distributed organizations and their governance, powered by [Boardroom](https://boardroom.info). This wiki covers the growing 'DO' and 'DAO' ecosystem.
 
 The Docs section, where you are now, is open source and hosted on GitHub which means that anyone has the ability to contribute. The goal is to make sure the information is available, clear, concise, and up to date.
 
 Use the navigation above to explore the repo! 
 
-## How to make changes to Stateless pages
+## How to make changes to wiki pages
 1. Head on over to the [Github repo](https://github.com/boardroom-inc/stateless).
 2. Create a new Github account or login into your existing account
 3. [Follow this great guide to learn how to make your first pull request](https://www.youtube.com/watch?v=YTbRzhQju4c&t=1s)

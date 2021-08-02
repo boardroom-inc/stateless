@@ -1,5 +1,5 @@
-site_name: Boardroom DAO Wiki
-site_description: A community resource covering DAOs - powered by Boardroom
+site_name: Boardroom Learn | DAO Wiki
+site_description: A community resource covering all things DAOs
 site_url: https://learn.boardroom.info
 theme:
   name: 'material'
@@ -53,7 +53,7 @@ nav:
   - 'Getting Started': 'DAO-guides/getting-started.md'
   - 'Participating in a DAO': 'DAO-guides/participating-in-a-dao.md'
   - 'Starting a DAO': 'DAO-guides/starting-a-dao.md'
-- DAO Tooling:
+- Tooling:
   - 'DAO Tooling': 'DAO-tooling/tooling-overview.md'
   - Frameworks:
     - 'What is a Governance Framework?': 'DAO-frameworks/what-is-a-governance-framework?.md'
@@ -91,7 +91,7 @@ nav:
     - 'Tally': 'DAO-tooling/aggregators/tally.md'
   - 'Communication': 'DAO-tooling/communication.md'
   - 'Resources': 'DAO-tooling/resources.md'
-- DAO Ecosystem:
+- Ecosystem:
   - 'DAO Ecosystem': 'DAO-ecosystem/dao-ecosystem.md'
   - Frameworks:
     - 'What is a Governance Framework?': 'DAO-frameworks/what-is-a-governance-framework?.md'
@@ -219,17 +219,17 @@ nav:
     - 'GRC': 'DAO-ecosystem/media-daos/grc.md'
     - 'rekt': 'DAO-ecosystem/media-daos/rekt.md'
   - 'Resources': 'DAO-ecosystem/resources.md'
-- Governance:
-  - 'What Does Governance Mean': 'Governance/what-does-governance-mean?.md'
-  - 'On-Chain Governance': 'Governance/on-chain-governance.md'
-  - 'Off-Chain Governance': 'Governance/off-chain-governance.md'
-  - 'Soft Governance': 'Governance/soft-governance.md'
-  - 'Delegation': 'Governance/delegation.md'
-  - Governance Strategies:
-    - 'What are Governance Strategies?': 'Governance/governance-strategies/governance-strategies.md'
-    - 'Progressive Decentralization': 'Governance/governance-strategies/progressive-decentralization.md'
-  - 'Resources': 'Governance/resources.md'
-- Directory:
+# - Governance:
+#   - 'What Does Governance Mean': 'Governance/what-does-governance-mean?.md'
+#   - 'On-Chain Governance': 'Governance/on-chain-governance.md'
+#   - 'Off-Chain Governance': 'Governance/off-chain-governance.md'
+#   - 'Soft Governance': 'Governance/soft-governance.md'
+#   - 'Delegation': 'Governance/delegation.md'
+#   - Governance Strategies:
+#     - 'What are Governance Strategies?': 'Governance/governance-strategies/governance-strategies.md'
+#     - 'Progressive Decentralization': 'Governance/governance-strategies/progressive-decentralization.md'
+#   - 'Resources': 'Governance/resources.md'
+- DAO Directory:
   - 'All DAOs': 'Directory/all-daos.md'
   - 'Investment DAOs': 'Directory/investment-daos.md'
   - 'Grant DAOs': 'Directory/grant-daos.md'
@@ -239,7 +239,5 @@ nav:
   - 'Social DAOs': 'Directory/social-daos.md'
   - 'Media DAOs': 'Directory/media-daos.md'
   - 'Frameworks': 'Directory/frameworks.md'
-- FAQ:
-  - 'Is Ethereum more expensive to use as price rises?': 'questions-about-ethereum/is-ethereum-more-expensive-to-use-as-price-rises.md'
 - Glossary:
   - 'Acronyms': 'glossary/crypto-acronyms.md'

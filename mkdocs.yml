@@ -1,5 +1,5 @@
-site_name: Stateless by Boardroom
-site_description: A trusted resource covering all things digital, distributed organizations, powered by Boardroom.
+site_name: Boardroom DAO Wiki
+site_description: A community resource covering DAOs - powered by Boardroom
 site_url: https://learn.boardroom.info
 theme:
   name: 'material'
@@ -231,7 +231,6 @@ nav:
   - 'Resources': 'Governance/resources.md'
 - Directory:
   - 'All DAOs': 'Directory/all-daos.md'
-  - 'Frameworks': 'Directory/frameworks.md'
   - 'Investment DAOs': 'Directory/investment-daos.md'
   - 'Grant DAOs': 'Directory/grant-daos.md'
   - 'Collector DAOs': 'Directory/collector-daos.md'
@@ -239,6 +238,7 @@ nav:
   - 'Service DAOs': 'Directory/service-daos.md'
   - 'Social DAOs': 'Directory/social-daos.md'
   - 'Media DAOs': 'Directory/media-daos.md'
+  - 'Frameworks': 'Directory/frameworks.md'
 - FAQ:
   - 'Is Ethereum more expensive to use as price rises?': 'questions-about-ethereum/is-ethereum-more-expensive-to-use-as-price-rises.md'
 - Glossary:

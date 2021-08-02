@@ -1,7 +1,7 @@
 ---
-title: Stateless
+title: Boardroom DAO Wiki
 
-description: A community driven resource covering digital and distributed organizations and their governance, powered by Boardroom
+description: A community resource covering DAOs - powered by Boardroom
 ---
 
 # Welcome to the Boardroom Wiki

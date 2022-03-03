@@ -3,9 +3,9 @@
 
 ## BitDAO
 - [Website](https://www.bitdao.io/)
-- [Discord](https://discord.gg/jTBC4BKnj7)
+- [Discord](https://discord.gg/bitdao)
 - [Twitter](https://twitter.com/BitDAO_Official)
-- [GitHub](https://github.com/BitDAOProtocol)
+- [GitHub](https://github.com/bitdao-io)
 - [Telegram](https://t.me/BitDAO_Official)
 - [Medium](https://medium.com/bitdao)
 
